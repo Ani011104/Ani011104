@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Anirudh's Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35&height=250&section=header&text=Hi,%20I'm%20Anirudh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20DevOps&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <h1 style="font-size: 3em; margin-bottom: 0;">Hi, I'm Anirudh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand Wave"></h1>
-  <h3>Backend Engineer | Cloud Enthusiast | System Design</h3>
-  
   <p align="center">
     <a href="mailto:anirudh.s011104@gmail.com">
       <img src="https://img.shields.io/badge/Email-anirudh.s011104%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white&color=202020" alt="Email" />
@@ -27,7 +24,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastructure** and **Automation**. I love building reliable, scalable systems and diving deep into **System Design** and **Networking**.
+I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastructure** and **DevOps**. I love building reliable, scalable systems and diving deep into **Automation** and **Networking**.
 
 - 🔭 I’m currently working on building scalable backend services.
 - 🌱 I’m currently learning **Advanced Cloud Networking** and **AI-Driven Infrastructure**.
@@ -82,13 +79,6 @@ I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastruc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ani011104&show_icons=true&theme=refined&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Anirudh's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani011104&layout=compact&theme=refined&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Built with ❤️ by Anirudh</sub>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ani011104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani011104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
