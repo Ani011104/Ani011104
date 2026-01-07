@@ -7,10 +7,10 @@
 <div align="center">
   <p align="center">
     <a href="mailto:anirudh.s011104@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me-2ea44f?style=for-the-badge&logo=gmail&logoColor=white&color=202020" alt="Email" />
+      <img src="https://img.shields.io/badge/Contact-anirudh.s011104%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white&color=202020" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/anirudh-s">
+    <a href="https://www.linkedin.com/in/anirudh-s-754607254/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
     </a>
   </p>
@@ -73,7 +73,7 @@ I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastruc
 | **OTP Authentication Backend** | A robust Node.js authentication service with **OTP-based login**, **10-minute expiry**, and **JWT authorization**. Includes 100% externalized secrets. | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **AWS Multi-Region VPC** | Provisioned secure networking across **2 AWS regions** with VPC peering. Automated creation of **10+ AWS resources** with remote state locking. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | **IAM User Automation** | Automated creation and policy handling of **IAM Users** in AWS using Terraform. Streamlines access management. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
-| **Secure Static Hosting** | Production-grade static website hosting using **S3 + CloudFront**, serving content over HTTPS. | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D05C4B?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| **Secure Static Hosting** | Production-grade static website hosting using **S3 + CloudFront**, serving content over HTTPS. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D05C4B?style=flat-square&logo=amazonwebservices&logoColor=white) |
 
 <br />
 
