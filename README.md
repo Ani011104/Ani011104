@@ -13,6 +13,10 @@
     <a href="https://www.linkedin.com/in/anirudh-s-754607254/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
+    <a href="https://anirudhs.xyz">
+      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
   </p>
   
   <p align="center">
