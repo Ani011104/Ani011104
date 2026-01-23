@@ -60,6 +60,8 @@ I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastruc
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 </div>
@@ -74,3 +76,4 @@ I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastruc
 | **AWS Multi-Region VPC** | Provisioned secure networking across **2 AWS regions** with VPC peering. Automated creation of **10+ AWS resources** with remote state locking. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | **IAM User Automation** | Automated creation and policy handling of **IAM Users** in AWS using Terraform. Streamlines access management. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | **Secure Static Hosting** | Production-grade static website hosting using **S3 + CloudFront**, serving content over HTTPS. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D05C4B?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| **2 Tier App Automation** | Automated infra provisioning and deployment for a 2-tier app on **AWS ECS** and **GCP Cloud Run** using **Terraform** and **GitHub Actions**. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
