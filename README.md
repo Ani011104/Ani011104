@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35&height=250&section=header&text=Hi,%20I'm%20Anirudh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20DevOps&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35&height=250&section=header&text=Hi,%20I'm%20Anirudh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Agentic%20AI&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" width="100%" />
 </div>
 
 <br />
@@ -28,11 +28,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastructure** and **DevOps**. I love building reliable, scalable systems and diving deep into **Automation** and **Networking**.
-
-- 🔭 I’m currently working on building scalable backend services.
-- 🌱 I’m currently learning **Advanced Cloud Networking** and **AI-Driven Infrastructure**.
-- 💬 Ask me about **Node.js, AWS, Docker, and Terraform**.
+I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastructure**, **DevOps**, and **Agentic AI**. I love building reliable, scalable systems and diving deep into **Automation** and **Networking**.
 
 <br />
 
@@ -52,9 +48,11 @@ I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastruc
 ### **Backend & APIs**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
 ### **Cloud & DevOps**
@@ -66,6 +64,11 @@ I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastruc
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+### **AI & Agentic AI**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
 </div>
@@ -81,3 +84,4 @@ I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastruc
 | **IAM User Automation** | Automated creation and policy handling of **IAM Users** in AWS using Terraform. Streamlines access management. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | **Secure Static Hosting** | Production-grade static website hosting using **S3 + CloudFront**, serving content over HTTPS. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D05C4B?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | **2 Tier App Automation** | Automated infra provisioning and deployment for a 2-tier app on **AWS ECS** and **GCP Cloud Run** using **Terraform** and **GitHub Actions**. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Loan Approval System** | Django REST backend for automated loan approval with **credit scoring**, **eligibility checks**, and **PostgreSQL persistence**. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
