@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35&height=250&section=header&text=Hi,%20I'm%20Anirudh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Agentic%20AI&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35&height=250&section=header&text=Hi,%20I'm%20Anirudh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20DevOps&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" width="100%" />
 </div>
 
 <br />
@@ -24,13 +24,9 @@
   </p>
 </div>
 
-<br />
-
 ## 🚀 About Me
 
-I am a passionate **Backend Engineer** with a strong focus on **Cloud Infrastructure**, **DevOps**, and **Agentic AI**. I love building reliable, scalable systems and diving deep into **Automation** and **Networking**.
-
-<br />
+I am a passionate **Backend Engineer** with a strong focus on **Backend Development**, **Cloud DevOps**, and **Agentic AI**. I love building reliable, scalable systems and AI-driven automation.
 
 ## 🛠️ Skills
 
